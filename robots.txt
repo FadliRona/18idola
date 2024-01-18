@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://idolacash.styleguides.io/sitemap.xml
